@@ -1,0 +1,1 @@
+# logstash-input-sns-s3
